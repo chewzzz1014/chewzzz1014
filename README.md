@@ -13,16 +13,16 @@ Forked Courses Repo:
  
  | Repository | Description |
  |-------|--------|
- | Java_Basics |-|
- | Python_Basics |-|
- | JavaScript_Basics| -|
- | DPhi-Bootcamp | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
- | space-invader | Simple space invader game created using Pygame |
- | landing-page | Incomplete. |
- | odin-recipes| Assignment submission for TheOdinProject course. Created a simple website using HTML and CSS. |
- | data-engineering-zoomcamp| Incomplete. Data engineering bootcamp. |
- | um-hackathon | Incomplete. Stock price prediction.|
- | file | As content delivery network (CDN) |
+ | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) |-|
+ | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |-|
+ | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)| -|
+ | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
+ | [space-invader](https://github.com/chewzzz1014/space-invader) | Simple space invader game created using Pygame |
+ | [landing-page](https://github.com/chewzzz1014/landing-page) | Incomplete. |
+ | [odin-recipes](https://github.com/chewzzz1014/odin-recipes)| Assignment submission for TheOdinProject course. Created a simple website using HTML and CSS. |
+ | [data-engineering-zoomcamp](https://github.com/chewzzz1014/data-engineering-zoomcamp)| Incomplete. Data engineering bootcamp. |
+ | [um-hackathon](https://github.com/chewzzz1014/um-hackathon) | Incomplete. Stock price prediction.|
+ | [file](https://github.com/chewzzz1014/file) | As content delivery network (CDN) |
        
  
 
