@@ -22,7 +22,7 @@ Forked Courses Repo:
  | [odin-recipes](https://github.com/chewzzz1014/odin-recipes)| Assignment submission for TheOdinProject course. Created a simple website using HTML and CSS. Live preview of the website: https://chewzzz1014.github.io/odin-recipes/ |
  | [data-engineering-zoomcamp](https://github.com/chewzzz1014/data-engineering-zoomcamp)| Incomplete. Data engineering bootcamp. |
  | [um-hackathon](https://github.com/chewzzz1014/um-hackathon) | Incomplete. Stock price prediction.|
- | [file](https://github.com/chewzzz1014/file) | As content delivery network (CDN) |
+ | [file](https://github.com/chewzzz1014/file) | As content delivery network (CDN) for small-sized images and files. |
        
  
 
