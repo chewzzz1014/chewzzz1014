@@ -3,8 +3,8 @@
 Forked Courses Repo:
  - [x] markdown-portfolio (2022)
  - [x] github-slideshow (2022)
+ - [x] css-exercises (2022)
  - [ ] Web-Dev-For-Beginners (2022 - Present)
- - [ ] css-exercises (2022 - Present)
  - [ ] Data-Science-For-Beginners (2022 - Present)
  - [ ] AI-For-Beginners (2022 - Present)
  - [ ] ML-For-Beginners (2022 - Present)
