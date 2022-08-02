@@ -16,6 +16,7 @@ Forked Courses Repo:
  | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) |-|
  | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |-|
  | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)| -|
+  | [sql-basics](https://github.com/chewzzz1014/sql-basics)| -|
  | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
  | [space-invader](https://github.com/chewzzz1014/space-invader) | Simple space invader game created using Pygame |
  | [landing-page](https://github.com/chewzzz1014/landing-page) | Assignment submission for TheOdinProject course. Created a simple landing page using CSS flexbox. Live preview of the website: https://chewzzz1014.github.io/landing-page/ |
