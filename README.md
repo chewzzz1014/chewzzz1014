@@ -1,8 +1,17 @@
 ![cool-doge-cool-dog](https://user-images.githubusercontent.com/92832451/167088966-46348f75-d3dd-47df-883b-ccbf91c7aac9.gif)
 
 Forked Courses Repo:
+
+   **Github Learning Lab**
  - [x] markdown-portfolio (Completed on 2022)
  - [x] github-slideshow (Completed on 2022)
+ - [ ] [Intermediate Python](https://github.com/chewzzz1014/intermediate-python-course)
+ - [ ] [DevOps with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+ - [ ] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
+
+ 
+ 
+   **Other Sources**
  - [x] css-exercises (Completed on 2022)
  - [x] javascript-exercises (2022 - Present)
  - [ ] Web-Dev-For-Beginners (2022 - Present)
