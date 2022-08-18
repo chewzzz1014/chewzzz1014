@@ -3,8 +3,8 @@
 Forked Courses Repo:
 
    **Github Learning Lab**
- - [x] markdown-portfolio (Completed on 2022)
- - [x] github-slideshow (Completed on 2022)
+ - [x] markdown-portfolio 
+ - [x] github-slideshow
  - [ ] [Intermediate Python](https://github.com/chewzzz1014/intermediate-python-course)
  - [ ] [DevOps with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
  - [ ] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
@@ -12,12 +12,13 @@ Forked Courses Repo:
  
  
    **Other Sources**
- - [x] css-exercises (Completed on 2022)
- - [x] javascript-exercises (2022 - Present)
- - [ ] Web-Dev-For-Beginners (2022 - Present)
- - [ ] Data-Science-For-Beginners (2022 - Present)
- - [ ] AI-For-Beginners (2022 - Present)
- - [ ] ML-For-Beginners (2022 - Present)
+ - [x] [css-exercises](https://github.com/chewzzz1014/css-exercises) 
+ - [x] [javascript-exercises](https://github.com/chewzzz1014/javascript-exercises) 
+ - [ ] [pandas-exercises](https://github.com/chewzzz1014/pandas_exercises)
+ - [ ] [Web-Dev-For-Beginners](https://github.com/chewzzz1014/Web-Dev-For-Beginners) 
+ - [ ] [Data-Science-For-Beginners](https://github.com/chewzzz1014/Data-Science-For-Beginners) 
+ - [ ] [AI-For-Beginners](https://github.com/chewzzz1014/AI-For-Beginners) 
+ - [ ] [ML-For-Beginners](https://github.com/chewzzz1014/ML-For-Beginners)
 
  
  My Repo:
@@ -25,9 +26,9 @@ Forked Courses Repo:
  | Repository | Description |
  |-------|--------|
  | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) |-|
- | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |-|
- | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)| -|
-  | [sql-basics](https://github.com/chewzzz1014/sql-basics)| -|
+ | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |Include basic Python syntax, data structures, basic tkinter, libraries used for data analysis|
+ | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)|JavaScript syntax and DOM|
+ | [sql-basics](https://github.com/chewzzz1014/sql-basics)|-|
  | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
  | [space-invader](https://github.com/chewzzz1014/space-invader) | Simple space invader game created using Pygame |
  | [landing-page](https://github.com/chewzzz1014/landing-page) | Assignment submission for Foundation Course of The Odin Project Web Development path. Created a simple landing page using CSS flexbox. Live preview of the website: https://chewzzz1014.github.io/landing-page/ |
