@@ -27,6 +27,7 @@ Forked Courses Repo:
  |-------|--------|
  | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) |-|
  | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |Include basic Python syntax, data structures, basic tkinter, libraries used for data analysis|
+ | [100-days-of-code-python](https://github.com/chewzzz1014/100-days-of-code-python.git)|-|
  | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)|JavaScript syntax and DOM|
  | [sql-basics](https://github.com/chewzzz1014/sql-basics)|-|
  | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
