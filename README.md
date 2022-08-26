@@ -5,9 +5,9 @@ Forked Courses Repo:
    **Github Learning Lab**
  - [x] markdown-portfolio 
  - [x] github-slideshow
+ - [x] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
  - [ ] [Intermediate Python](https://github.com/chewzzz1014/intermediate-python-course)
  - [ ] [DevOps with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
- - [ ] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
 
  
  
