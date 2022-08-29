@@ -11,7 +11,7 @@ Forked Courses Repo:
  - [ ] [Managing merge conflicts](https://github.com/chewzzz1014/merge-conflicts)
  - [ ] [GitHub Actions: Continuous Integration](https://github.com/chewzzz1014/github-actions-for-ci)
 - [ ] [GitHub Actions: Write Docker container actions](https://github.com/chewzzz1014/write-docker-actions)
-
+- [ ] [GitHub Pages](https://github.com/chewzzz1014/github-pages-with-jekyll)
  
  
    **Other Sources**
