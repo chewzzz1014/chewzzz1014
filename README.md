@@ -8,6 +8,9 @@ Forked Courses Repo:
  - [x] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
  - [ ] [Intermediate Python](https://github.com/chewzzz1014/intermediate-python-course)
  - [ ] [DevOps with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+ - [ ] [Managing merge conflicts](https://github.com/chewzzz1014/merge-conflicts)
+ - [ ] [GitHub Actions: Continuous Integration](https://github.com/chewzzz1014/github-actions-for-ci)
+- [ ] [GitHub Actions: Write Docker container actions](https://github.com/chewzzz1014/write-docker-actions)
 
  
  
