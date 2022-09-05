@@ -28,11 +28,12 @@ Forked Courses Repo:
  
  | Repository | Description |
  |-------|--------|
- | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) |-|
- | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |Include basic Python syntax, data structures, basic tkinter, libraries used for data analysis|
+ | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) | Learning Java basic syntac, OOP. Contains code written for homeworks and assignmented during Sem 1 and Sem 2 of my gedree.|
+ | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |Include basic Python syntax, data structures, basic tkinter, libraries used for data analysis. |
  | [100-days-of-code-python](https://github.com/chewzzz1014/100-days-of-code-python.git)|-|
  | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)|JavaScript syntax and DOM|
- | [sql-basics](https://github.com/chewzzz1014/sql-basics)|-|
+ | [sql-basics](https://github.com/chewzzz1014/sql-basics)|Learning SQL syntax. |
+ | [algo](https://github.com/chewzzz1014/algo)| Learning data structures and algorithms inplemented in Python |
  | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
  | [space-invader](https://github.com/chewzzz1014/space-invader) | Simple space invader game created using Pygame |
  | [landing-page](https://github.com/chewzzz1014/landing-page) | Assignment submission for Foundation Course of The Odin Project Web Development path. Created a simple landing page using CSS flexbox. Live preview of the website: https://chewzzz1014.github.io/landing-page/ |
