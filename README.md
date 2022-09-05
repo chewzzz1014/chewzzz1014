@@ -30,6 +30,7 @@ Forked Courses Repo:
  |-------|--------|
  | [Java_Basics](https://github.com/chewzzz1014/Java_Basics) | Learning Java basic syntac, OOP. Contains code written for homeworks and assignmented during Sem 1 and Sem 2 of my gedree.|
  | [Python_Basics](https://github.com/chewzzz1014/Python_Basics) |Include basic Python syntax, data structures, basic tkinter, libraries used for data analysis. |
+ | [python-libraries](https://github.com/chewzzz1014/python-libraries)| Implementation of pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, urllib libraries.|
  | [100-days-of-code-python](https://github.com/chewzzz1014/100-days-of-code-python.git)|-|
  | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)|JavaScript syntax and DOM|
  | [sql-basics](https://github.com/chewzzz1014/sql-basics)|Learning SQL syntax. |
