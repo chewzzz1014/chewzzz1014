@@ -6,8 +6,8 @@ Forked Courses Repo:
  - [x] markdown-portfolio 
  - [x] github-slideshow
  - [x] [Get Started with TensorFlow](https://github.com/chewzzz1014/TensorFlow-Pokemon-Course)
+ - [x] [resolve-merge-conflicts](https://github.com/chewzzz1014/-resolve-merge-conflicts)
  - [ ] [DevOps with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
- - [ ] [resolve-merge-conflicts](https://github.com/chewzzz1014/-resolve-merge-conflicts)
  - [ ] [GitHub Actions: Continuous Integration](https://github.com/chewzzz1014/github-actions-for-ci)
 - [ ] [GitHub Actions: Write Docker container actions](https://github.com/chewzzz1014/write-docker-actions)
  
