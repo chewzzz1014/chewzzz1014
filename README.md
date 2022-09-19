@@ -32,12 +32,11 @@ Forked Courses Repo:
  | [100-days-of-code-python](https://github.com/chewzzz1014/100-days-of-code-python.git)|-|
  | [JavaScript_Basics](https://github.com/chewzzz1014/JavaScript_Basics)|JavaScript syntax and DOM|
  | [sql-basics](https://github.com/chewzzz1014/sql-basics)|Learning SQL syntax. |
+ | [css-javascript-projects](https://github.com/chewzzz1014/css-javascript-projects) |
+ | [ data-analysts-projects](https://github.com/chewzzz1014/data-analysts-projects) |
  | [algo](https://github.com/chewzzz1014/algo)| Learning data structures and algorithms inplemented in Python |
  | [DPhi-Bootcamp](https://github.com/chewzzz1014/DPhi-Bootcamp) | Notebook, predictions and notes for DPhi Bootcamps I've particiapted. |
  | [space-invader](https://github.com/chewzzz1014/space-invader) | Simple space invader game created using Pygame |
- | [landing-page](https://github.com/chewzzz1014/landing-page) | Assignment submission for Foundation Course of The Odin Project Web Development path. Created a simple landing page using CSS flexbox. Live preview of the website: https://chewzzz1014.github.io/landing-page/ |
- | [odin-recipes](https://github.com/chewzzz1014/odin-recipes)| Assignment submission for Foundation Course of The Odin Project Web Development path. Created a simple website using HTML and CSS. Live preview of the website: https://chewzzz1014.github.io/odin-recipes/ |
- | [rock-paper-scissors](https://github.com/chewzzz1014/rock-paper-scissors)| GUI to be added. Assignment submission for Foundation Course of The Odin Project Web Development path. Created a simple rock paper scissors game using JavaScipt. |
  | [data-engineering-zoomcamp](https://github.com/chewzzz1014/data-engineering-zoomcamp)| Incomplete. Data engineering bootcamp. |
  | [um-hackathon](https://github.com/chewzzz1014/um-hackathon) | Incomplete. Stock price prediction.|
  | [file](https://github.com/chewzzz1014/file) | As content delivery network (CDN) for small-sized images and files. |
