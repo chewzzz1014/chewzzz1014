@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, Express, MongoDB, PostgreSQL, bash and more...**
 
-- 👨‍💻 All of my projects are available at [https://chewzzz1014.github.io/portfolio-website/](https://chewzzz1014.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/)
 
 - 📫 How to reach me **chewziqing@gmail.com**
 
-- ⚡ Fun fact **I love Japanese music!**
+- ⚡ Fun fact **I love Japanese music!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
