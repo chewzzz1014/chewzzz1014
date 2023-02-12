@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Zi Qing Chew](https://www.linkedin.com/in/ziqingchew/)</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://chewzzz1014.github.io/portfolio-website/'>Zi Qing Chew</a></h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chewzzz1014" alt="chewzzz1014" /></a> </p>
 
