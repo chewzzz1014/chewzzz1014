@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chewzzz1014" alt="chewzzz1014" /></a> </p>
 
-- 🔭 I’m currently working on **repositories info page using Jekyll**
+- 🔭 I’m currently working on **repositories info page using Jekyll (or Gatsby...)**
 
-- 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more...**
+- 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more... :exploding_head:**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) :sunglasses:
 
-- 📫 How to reach me **chewziqing@gmail.com**
+- 📫 How to reach me **chewziqing@gmail.com** 
 
 - ⚡ Fun fact **I love Japanese music!** 
 
