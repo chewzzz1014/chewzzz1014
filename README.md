@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **repositories info page using Jekyll (or Gatsby...)**
 
-- 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more... :exploding_head:**
+- 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more... 
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) :sunglasses:
+- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) 
 
 - 📫 How to reach me **chewziqing@gmail.com** 
 
