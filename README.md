@@ -2,9 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chewzzz1014" alt="chewzzz1014" /></a> </p>
 
-- 🔭 I’m currently working on **repositories info page using Jekyll (or Gatsby...)**
+- 🔭 I’m currently working on **repositories info page using Jekyll (or hopefully Gatsby...)**
 
 - 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more...** 
+
+- 📝: To-learn: **PHP, React Native, Flutter, spreadsheet...**
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) 
 
