@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **repositories info page using Jekyll (or hopefully Gatsby...)**
 
-- 🌱 I’m currently learning **TypeScript, React, Angular, Express, MongoDB, PostgreSQL, bash and more...** 
+- 🌱 I’m currently learning **TypeScript, React, Vue, Express, MongoDB, PostgreSQL, bash and more...** 
 
 - 📝: To-learn: **PHP, React Native, Flutter, spreadsheet...**
 
