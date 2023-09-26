@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href='https://chewzzz1014.github.io/portfolio-website/'>Zi Qing Chew</a></h1>
 
-- 🌱 I’m currently learning **TypeScript, React, Vue, Express, MongoDB, PostgreSQL, bash and more...** 
+👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) 
 
-- 📝: To-learn: **PHP, React Native, Flutter, spreadsheet...**
-
-- 👨‍💻 All of my projects are available at [my portfolio website](https://chewzzz1014.github.io/portfolio-website/) 
-
-- 📫 How to reach me **chewziqing@gmail.com** 
+📫 How to reach me **chewziqing@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
