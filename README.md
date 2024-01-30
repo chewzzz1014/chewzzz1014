@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at my [portfolio website](https://chewzzz1014.github.io/portfolio-website/).<br>📫 Feel free to reach me via chewziqing@gmail.com!
+👨‍💻 Check out my [portfolio website](https://chewzzz1014.github.io/portfolio-website/). 😎 <br>📫 Feel free to reach me via chewziqing@gmail.com
 
 
 ## 🌐 Socials:
