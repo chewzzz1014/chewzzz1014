@@ -46,3 +46,5 @@
 <div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chewzzz1014&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="chewzzz1014" /></div>
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=chewzzz1014" alt="chewzzz1014" /></div>
 </div>
+
+![maxresdefault-removebg-preview](https://github.com/chewzzz1014/chewzzz1014/assets/92832451/1a4f38ff-0500-4596-a1c9-7987868281f1)
