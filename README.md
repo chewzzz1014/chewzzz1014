@@ -47,4 +47,5 @@
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=chewzzz1014" alt="chewzzz1014" /></div>
 </div>
 
-![maxresdefault-removebg-preview](https://github.com/chewzzz1014/chewzzz1014/assets/92832451/1a4f38ff-0500-4596-a1c9-7987868281f1)
+![Where’s your commit streak](https://github.com/chewzzz1014/chewzzz1014/assets/92832451/950a121c-429d-48d6-bc39-289238f9d7e1)
+
